@@ -1,0 +1,75 @@
+TURN 1
+- - - - - -
+- G C - C -
+- - - A - -
+- - - A - -
+- - - A - -
+- A - - - -
+GREGOR INVENTORY: MEDKIT
+TURN 2
+- - G - - -
+- C - - - -
+- - C - C -
+- - - - A -
+- - - - A -
+- - A - - -
+GREGOR INVENTORY: MEDKIT
+TURN 3
+- - - - - -
+- C - G - -
+- - - - - -
+- - C - C A
+- - - - - A
+- - - A - -
+GREGOR INVENTORY: MEDKIT
+TURN 4
+- - - - - -
+- - - - - -
+- C - - G -
+- - - - A -
+- - C - C -
+- - - - A -
+GREGOR INVENTORY: MEDKIT
+TURN 5
+- - - - - -
+- - - - - -
+- - - - - -
+- C - A - G
+- - - - - -
+- - C - C A
+GREGOR INVENTORY: MEDKIT
+TURN 6
+- - - - - -
+- - - - - -
+- - - - - -
+- - A - - -
+- C C - G -
+- - - - A -
+GREGOR INVENTORY: EMPTY
+TURN 7
+- - - - - -
+- - - - - -
+- - - - - -
+- A C - - -
+- - - - C -
+- C - G - -
+GREGOR INVENTORY: ION_BLASTER
+TURN 8
+- - - - - -
+- - - - - -
+- - C - - -
+A - - - - -
+- C G - C -
+- - - - - -
+GREGOR INVENTORY: ION_BLASTER
+TURN 9
+- - - - - -
+- - C - - -
+- - - - - -
+- G - - C -
+- - - - - -
+- - - - - -
+GREGOR INVENTORY: STUNNER
+=== RESULT ===
+RESCUED: 2/4 (50.00%)
+FAILED

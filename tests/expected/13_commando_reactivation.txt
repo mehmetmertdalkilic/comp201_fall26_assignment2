@@ -1,0 +1,33 @@
+TURN 1
+- - - -
+- G - -
+- - - -
+- A - -
+GREGOR INVENTORY: EMPTY
+TURN 2
+- - G -
+- C - -
+- - - -
+- - A -
+GREGOR INVENTORY: EMPTY
+TURN 3
+- - - -
+- C - G
+- - - -
+- - - A
+GREGOR INVENTORY: EMPTY
+TURN 4
+- - - -
+- - - -
+- C G -
+- - A -
+GREGOR INVENTORY: EMPTY
+TURN 5
+- - - -
+- - - -
+- - - -
+- G - -
+GREGOR INVENTORY: EMPTY
+=== RESULT ===
+RESCUED: 1/1 (100.00%)
+PERFECT JOB

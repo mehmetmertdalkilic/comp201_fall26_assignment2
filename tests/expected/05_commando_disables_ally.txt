@@ -1,0 +1,9 @@
+TURN 1
+- - - -
+- C - -
+- - G -
+- - - -
+GREGOR INVENTORY: EMPTY
+=== RESULT ===
+RESCUED: 0/1 (0.00%)
+FAILED

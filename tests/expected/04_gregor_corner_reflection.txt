@@ -1,0 +1,9 @@
+TURN 1
+- - - -
+- - G -
+- - - -
+- - - -
+GREGOR INVENTORY: MEDKIT STUNNER STUNROD
+=== RESULT ===
+RESCUED: 1/1 (100.00%)
+PERFECT JOB

@@ -1,0 +1,31 @@
+TURN 1
+- - A - -
+C - G - -
+- - - - -
+- - - - -
+- - - A -
+GREGOR INVENTORY: STUNNER
+TURN 2
+- - - G -
+- - - - -
+C - - - -
+- - - - -
+- - A - -
+GREGOR INVENTORY: STUNNER
+TURN 3
+- - - - -
+- - - - G
+- - - - -
+C - - - -
+- A - - -
+GREGOR INVENTORY: STUNNER
+TURN 4
+- - - - -
+- - - - -
+- - - G -
+- - - - -
+C - - - -
+GREGOR INVENTORY: STUNNER
+=== RESULT ===
+RESCUED: 1/2 (50.00%)
+FAILED

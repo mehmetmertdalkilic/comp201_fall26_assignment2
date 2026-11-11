@@ -1,0 +1,52 @@
+TURN 1
+- - - - -
+- A C G -
+- A - - -
+- C - - -
+- - - A -
+GREGOR INVENTORY: ION_BLASTER
+TURN 2
+- - - - -
+- - A - -
+- - G - -
+- - - - -
+- C A - -
+GREGOR INVENTORY: EMPTY
+TURN 3
+- - - - -
+- - - A -
+- - - - -
+- G - - -
+- A - - -
+GREGOR INVENTORY: EMPTY
+TURN 4
+- - - - -
+- - - - A
+- - - - -
+- C - - -
+G - - - -
+GREGOR INVENTORY: EMPTY
+TURN 5
+- - - - -
+- - - A -
+- - - - -
+- G - - -
+- - - - -
+GREGOR INVENTORY: EMPTY
+TURN 6
+- - - - -
+- - A - -
+- C G - -
+- - - - -
+- - - - -
+GREGOR INVENTORY: EMPTY
+TURN 7
+- - - - -
+- C - G -
+- - - - -
+- - - - -
+- - - - -
+GREGOR INVENTORY: EMPTY
+=== RESULT ===
+RESCUED: 2/3 (66.67%)
+SUCCESS

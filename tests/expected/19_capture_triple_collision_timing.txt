@@ -1,0 +1,16 @@
+TURN 1
+- - - - -
+- - - - -
+- A - - -
+- G C - -
+- - - - -
+GREGOR INVENTORY: EMPTY
+TURN 2
+- - - - -
+- - - - -
+- - C - -
+- C - - -
+- - - - -
+GREGOR INVENTORY: EMPTY
+=== RESULT ===
+GREGOR CAPTURED

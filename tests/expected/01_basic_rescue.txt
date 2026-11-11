@@ -1,0 +1,8 @@
+TURN 1
+- - -
+- G -
+- - -
+GREGOR INVENTORY: EMPTY
+=== RESULT ===
+RESCUED: 1/1 (100.00%)
+PERFECT JOB
